@@ -1,0 +1,4 @@
+baseURL = 'https://blog.sisyphus.ca/'
+languageCode = 'en-ca'
+title = "Diego Ripley's Blog"
+theme = 'blank'
